@@ -176,3 +176,16 @@ footer {
   color: #555;
 }
 
+.back-link {
+  text-decoration: none;
+  color: #2f6f4e;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+.back-link:hover {
+  color: #1a442b;
+}
+
