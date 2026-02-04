@@ -1,0 +1,44 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f4f6f3;
+  color: #1f2933;
+}
+
+header {
+  padding: 3rem 1rem;
+  text-align: center;
+  background: #2f6f4e;
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 1rem;
+  background: #e5efe9;
+}
+
+nav a {
+  text-decoration: none;
+  color: #2f6f4e;
+  font-weight: 600;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
