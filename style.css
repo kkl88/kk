@@ -28,10 +28,11 @@ nav a {
 }
 
 main {
-  max-width: 700px;
+  max-width: 900px;
   margin: auto;
   padding: 2.5rem 1rem;
 }
+
 
 section {
   margin-bottom: 3.5rem;
