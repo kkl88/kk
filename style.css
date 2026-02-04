@@ -178,7 +178,7 @@ footer {
 
 .back-link {
   text-decoration: none;
-  color: #2f6f4e;
+  color: #1f2933;       /* dark slate-gray for better readability */
   font-weight: 600;
   margin-bottom: 1rem;
   display: inline-block;
@@ -186,7 +186,7 @@ footer {
 }
 
 .back-link:hover {
-  color: #1a442b;
+  color: #2f6f4e;       /* subtle green only on hover */
 }
 
 .entry-page {
